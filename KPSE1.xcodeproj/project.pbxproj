@@ -22,19 +22,20 @@
 		140DF6B11D8C0A7100516564 /* NSDat+Conversions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140DF6B01D8C0A7100516564 /* NSDat+Conversions.swift */; };
 		143815771DA56DCA00D58BC7 /* PatientDeatilsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143815761DA56DCA00D58BC7 /* PatientDeatilsViewController.swift */; };
 		148016541D9E76940058BE28 /* PatientTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148016531D9E76940058BE28 /* PatientTableViewCell.swift */; };
-		149623E71D8C613900C91381 /* StringtoDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149623E61D8C613900C91381 /* StringtoDate.swift */; };
+		149B75961DB95F3C009C8B0B /* QRcodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149B75951DB95F3C009C8B0B /* QRcodeViewController.swift */; };
+		149B75981DB95FAC009C8B0B /* StringtoDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149B75971DB95FAC009C8B0B /* StringtoDate.swift */; };
 		14A578B41DB76EF70097C2ED /* TextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A578B31DB76EF70097C2ED /* TextField.swift */; };
 		14AEB7271DA4F3F8005B4456 /* PatientLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14AEB7261DA4F3F8005B4456 /* PatientLoginViewController.swift */; };
 		14E69FA51D8D7382004DB9C6 /* UImagetoImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E69FA41D8D7382004DB9C6 /* UImagetoImage.swift */; };
 		14E718F51DB4CBB9003F6E8B /* PatientLogoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E718F41DB4CBB9003F6E8B /* PatientLogoutViewController.swift */; };
 		14E718F71DB4CE39003F6E8B /* LogoutQRScanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E718F61DB4CE39003F6E8B /* LogoutQRScanViewController.swift */; };
 		14E718F91DB4DC64003F6E8B /* InjectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E718F81DB4DC64003F6E8B /* InjectionViewController.swift */; };
-		14E71E1B1DB678EC00F387B2 /* PatientLogin+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E71E191DB678EC00F387B2 /* PatientLogin+CoreDataClass.swift */; };
+		14E71E1B1DB678EC00F387B2 /* KPSE1 in Sources */ = {isa = PBXBuildFile; fileRef = 14E71E191DB678EC00F387B2 /* KPSE1 */; };
 		14E728301DAD7D090007F8DC /* protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E7282F1DAD7D090007F8DC /* protocol.swift */; };
-		14E9A26A1DB0C010002B2809 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E9A2691DB0C010002B2809 /* DataController.swift */; };
+		14E9A26A1DB0C010002B2809 /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 14E9A2691DB0C010002B2809 /* DataModel.xcdatamodeld */; };
 		14EA6CA81DAF89AE00CC484D /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14EA6CA71DAF89AD00CC484D /* CoreData.framework */; };
 		14EA6CAB1DAF8B6400CC484D /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 14EA6CA91DAF8B6400CC484D /* DataModel.xcdatamodeld */; };
-		14EA6CB01DAFAF1800CC484D /* PflegerLogin+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EA6CAE1DAFAF1800CC484D /* PflegerLogin+CoreDataClass.swift */; };
+		14EA6CB01DAFAF1800CC484D /* KPSE1 in Sources */ = {isa = PBXBuildFile; fileRef = 14EA6CAE1DAFAF1800CC484D /* KPSE1 */; };
 		14EAA33A1DAB8ADA004600FF /* DoneTasksTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EAA3391DAB8ADA004600FF /* DoneTasksTableViewCell.swift */; };
 		14EAA33C1DAB99FA004600FF /* NextPatientListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EAA33B1DAB99FA004600FF /* NextPatientListViewController.swift */; };
 		14EAAC8E1D9A80F000DE1982 /* PatientProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EAAC8D1D9A80F000DE1982 /* PatientProfileViewController.swift */; };
@@ -46,7 +47,6 @@
 		14EE9D871DA7A3E6006ADE61 /* PatientBreifInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EE9D861DA7A3E6006ADE61 /* PatientBreifInfoViewController.swift */; };
 		14EE9D891DA7A986006ADE61 /* TasksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EE9D881DA7A986006ADE61 /* TasksViewController.swift */; };
 		14EE9D8B1DA7ACCA006ADE61 /* TasksTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EE9D8A1DA7ACCA006ADE61 /* TasksTableViewCell.swift */; };
-		14F0A7061D99146F00C89422 /* QRcodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F0A7051D99146F00C89422 /* QRcodeViewController.swift */; };
 		14F0A7081D9947DF00C89422 /* Segmentcontrol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F0A7071D9947DF00C89422 /* Segmentcontrol.swift */; };
 		14FF8BBF1DAA52B400EF07D5 /* DoneTasksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14FF8BBE1DAA52B400EF07D5 /* DoneTasksViewController.swift */; };
 /* End PBXBuildFile section */
@@ -76,23 +76,24 @@
 		0A5A930E1D780D550021D028 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		0A68FA601D79626F009DCCC0 /* PflegerProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PflegerProfile.swift; path = ../PflegerProfile.swift; sourceTree = "<group>"; };
 		0A68FA621D796AC6009DCCC0 /* CheckBox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
-		0AFEDE3D1D880D540003C293 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../Main.storyboard; sourceTree = "<group>"; };
+		0AFEDE3D1D880D540003C293 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		140DF6B01D8C0A7100516564 /* NSDat+Conversions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSDat+Conversions.swift"; sourceTree = "<group>"; };
 		143815761DA56DCA00D58BC7 /* PatientDeatilsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PatientDeatilsViewController.swift; sourceTree = "<group>"; };
 		148016531D9E76940058BE28 /* PatientTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PatientTableViewCell.swift; sourceTree = "<group>"; };
-		149623E61D8C613900C91381 /* StringtoDate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StringtoDate.swift; path = ../StringtoDate.swift; sourceTree = "<group>"; };
+		149B75951DB95F3C009C8B0B /* QRcodeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QRcodeViewController.swift; path = "../../Desktop/KPSE1(17.10.16)/QRcodeViewController.swift"; sourceTree = "<group>"; };
+		149B75971DB95FAC009C8B0B /* StringtoDate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StringtoDate.swift; path = "../../Desktop/KPSE1(17.10.16)/StringtoDate.swift"; sourceTree = "<group>"; };
 		14A578B31DB76EF70097C2ED /* TextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextField.swift; sourceTree = "<group>"; };
 		14AEB7261DA4F3F8005B4456 /* PatientLoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PatientLoginViewController.swift; sourceTree = "<group>"; };
 		14E69FA41D8D7382004DB9C6 /* UImagetoImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UImagetoImage.swift; sourceTree = "<group>"; };
 		14E718F41DB4CBB9003F6E8B /* PatientLogoutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PatientLogoutViewController.swift; sourceTree = "<group>"; };
 		14E718F61DB4CE39003F6E8B /* LogoutQRScanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogoutQRScanViewController.swift; sourceTree = "<group>"; };
 		14E718F81DB4DC64003F6E8B /* InjectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InjectionViewController.swift; sourceTree = "<group>"; };
-		14E71E191DB678EC00F387B2 /* PatientLogin+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PatientLogin+CoreDataClass.swift"; sourceTree = "<group>"; };
+		14E71E191DB678EC00F387B2 /* KPSE1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = folder; path = KPSE1; sourceTree = "<group>"; };
 		14E7282F1DAD7D090007F8DC /* protocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = protocol.swift; sourceTree = "<group>"; };
-		14E9A2691DB0C010002B2809 /* DataController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
+		14E9A2691DB0C010002B2809 /* DataModel.xcdatamodeld */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodeld; path = DataModel.xcdatamodeld; sourceTree = "<group>"; };
 		14EA6CA71DAF89AD00CC484D /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		14EA6CAA1DAF8B6400CC484D /* DataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DataModel.xcdatamodel; sourceTree = "<group>"; };
-		14EA6CAE1DAFAF1800CC484D /* PflegerLogin+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PflegerLogin+CoreDataClass.swift"; sourceTree = "<group>"; };
+		14EA6CAE1DAFAF1800CC484D /* KPSE1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = folder; path = KPSE1; sourceTree = "<group>"; };
 		14EAA3391DAB8ADA004600FF /* DoneTasksTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoneTasksTableViewCell.swift; sourceTree = "<group>"; };
 		14EAA33B1DAB99FA004600FF /* NextPatientListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextPatientListViewController.swift; sourceTree = "<group>"; };
 		14EAAC8D1D9A80F000DE1982 /* PatientProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PatientProfileViewController.swift; sourceTree = "<group>"; };
@@ -104,7 +105,6 @@
 		14EE9D861DA7A3E6006ADE61 /* PatientBreifInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PatientBreifInfoViewController.swift; sourceTree = "<group>"; };
 		14EE9D881DA7A986006ADE61 /* TasksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TasksViewController.swift; sourceTree = "<group>"; };
 		14EE9D8A1DA7ACCA006ADE61 /* TasksTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TasksTableViewCell.swift; sourceTree = "<group>"; };
-		14F0A7051D99146F00C89422 /* QRcodeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QRcodeViewController.swift; path = ../QRcodeViewController.swift; sourceTree = "<group>"; };
 		14F0A7071D9947DF00C89422 /* Segmentcontrol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Segmentcontrol.swift; sourceTree = "<group>"; };
 		14FF8BBE1DAA52B400EF07D5 /* DoneTasksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoneTasksViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -131,9 +131,9 @@
 		0A49AB611D7574740070C23C = {
 			isa = PBXGroup;
 			children = (
-				14E71E191DB678EC00F387B2 /* PatientLogin+CoreDataClass.swift */,
-				14E9A2691DB0C010002B2809 /* DataController.swift */,
-				14EA6CAE1DAFAF1800CC484D /* PflegerLogin+CoreDataClass.swift */,
+				14E71E191DB678EC00F387B2 /* KPSE1 */,
+				14E9A2691DB0C010002B2809 /* DataModel.xcdatamodeld */,
+				14EA6CAE1DAFAF1800CC484D /* KPSE1 */,
 				14EA6CA91DAF8B6400CC484D /* DataModel.xcdatamodeld */,
 				0A49AB6C1D7574750070C23C /* KPSE1 */,
 				0A49AB811D7574750070C23C /* KPSE1Tests */,
@@ -156,6 +156,7 @@
 			children = (
 				140DF6B21D8C110700516564 /* Extension */,
 				0AFEDE3D1D880D540003C293 /* Main.storyboard */,
+				149B75951DB95F3C009C8B0B /* QRcodeViewController.swift */,
 				14E718F81DB4DC64003F6E8B /* InjectionViewController.swift */,
 				14E718F61DB4CE39003F6E8B /* LogoutQRScanViewController.swift */,
 				14E718F41DB4CBB9003F6E8B /* PatientLogoutViewController.swift */,
@@ -169,7 +170,6 @@
 				14AEB7261DA4F3F8005B4456 /* PatientLoginViewController.swift */,
 				148016531D9E76940058BE28 /* PatientTableViewCell.swift */,
 				14EAAC8D1D9A80F000DE1982 /* PatientProfileViewController.swift */,
-				14F0A7051D99146F00C89422 /* QRcodeViewController.swift */,
 				14EC0BA51D942A3F000CC05F /* CalenderTableViewCell.swift */,
 				14EC7AD51D93F1610073C2DA /* CalenderViewController.swift */,
 				14EC9CC91D93186300C670A1 /* keyViewController.swift */,
@@ -203,8 +203,8 @@
 			children = (
 				14F0A7071D9947DF00C89422 /* Segmentcontrol.swift */,
 				14EAF52A1D95326D007EF62C /* CalenderDate.swift */,
-				149623E61D8C613900C91381 /* StringtoDate.swift */,
 				140DF6B01D8C0A7100516564 /* NSDat+Conversions.swift */,
+				149B75971DB95FAC009C8B0B /* StringtoDate.swift */,
 				14E69FA41D8D7382004DB9C6 /* UImagetoImage.swift */,
 				14A578B31DB76EF70097C2ED /* TextField.swift */,
 			);
@@ -336,7 +336,9 @@
 				14EAAC8E1D9A80F000DE1982 /* PatientProfileViewController.swift in Sources */,
 				14EA6CAB1DAF8B6400CC484D /* DataModel.xcdatamodeld in Sources */,
 				0A49AB701D7574750070C23C /* ViewController.swift in Sources */,
+				149B75981DB95FAC009C8B0B /* StringtoDate.swift in Sources */,
 				14E728301DAD7D090007F8DC /* protocol.swift in Sources */,
+				149B75961DB95F3C009C8B0B /* QRcodeViewController.swift in Sources */,
 				14EC0BA61D942A3F000CC05F /* CalenderTableViewCell.swift in Sources */,
 				14A578B41DB76EF70097C2ED /* TextField.swift in Sources */,
 				14EE9D8B1DA7ACCA006ADE61 /* TasksTableViewCell.swift in Sources */,
@@ -348,16 +350,14 @@
 				14EAA33C1DAB99FA004600FF /* NextPatientListViewController.swift in Sources */,
 				0A49AB6E1D7574750070C23C /* AppDelegate.swift in Sources */,
 				14E69FA51D8D7382004DB9C6 /* UImagetoImage.swift in Sources */,
-				14F0A7061D99146F00C89422 /* QRcodeViewController.swift in Sources */,
-				14EA6CB01DAFAF1800CC484D /* PflegerLogin+CoreDataClass.swift in Sources */,
+				14EA6CB01DAFAF1800CC484D /* KPSE1 in Sources */,
 				14E718F71DB4CE39003F6E8B /* LogoutQRScanViewController.swift in Sources */,
-				14E9A26A1DB0C010002B2809 /* DataController.swift in Sources */,
+				14E9A26A1DB0C010002B2809 /* DataModel.xcdatamodeld in Sources */,
 				0A68FA631D796AC6009DCCC0 /* CheckBox.swift in Sources */,
 				14EAA33A1DAB8ADA004600FF /* DoneTasksTableViewCell.swift in Sources */,
 				148016541D9E76940058BE28 /* PatientTableViewCell.swift in Sources */,
-				149623E71D8C613900C91381 /* StringtoDate.swift in Sources */,
 				14E718F51DB4CBB9003F6E8B /* PatientLogoutViewController.swift in Sources */,
-				14E71E1B1DB678EC00F387B2 /* PatientLogin+CoreDataClass.swift in Sources */,
+				14E71E1B1DB678EC00F387B2 /* KPSE1 in Sources */,
 				14EAF52B1D95326D007EF62C /* CalenderDate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
